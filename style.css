@@ -1,0 +1,38 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+body{
+	background: linear-gradient(to right, #e91e63, #3f51b5);
+}
+
+.button{
+	width: 50px;
+	height: 50px;
+	font-size: 25px;
+	margin: 2px;
+	cursor: pointer;
+	background: #607d8b;
+	border-radius: 5px;
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+.textview{
+	display: block;
+	width: 201px;
+	margin: 5px;
+	font-size: 25px;
+	padding: 5px;
+	color: #607d8b;
+	border: 3px solid #fff;
+	border-radius: 5px;
+}
+
+.main{
+	margin-top: 20%;
+	margin-left: 42%;
+}
+
